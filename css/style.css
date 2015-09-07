@@ -1,0 +1,24 @@
+
+nav {
+    background: black;
+    color: white;
+}
+
+nav {
+    background: blue;
+}
+
+aside {
+    font-size: 10px;
+}
+
+section p{
+    color: yellow;
+}
+
+footer {
+    text-align: center;
+    background: violet;
+    width: 500px;
+    font-family: "comic sans ms", Helvetica;
+}
